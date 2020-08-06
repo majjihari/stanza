@@ -127,7 +127,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -160,4 +159,5 @@ dmypy.json
 cython_debug/
 
 # IDE-related
-.vscode/
+config.bat
+node_modules
