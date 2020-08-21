@@ -127,7 +127,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -160,9 +159,10 @@ dmypy.json
 cython_debug/
 
 # IDE-related
-.vscode/
 
 # Jekyll stuff, triggered by running the docs locally
 .jekyll-cache/
 .jekyll-metadata
 _site/
+config.bat
+node_modules
