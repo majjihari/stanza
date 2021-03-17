@@ -3,7 +3,6 @@ __pycache__/
 *$py.class
 .jekyll-cache
 .sass-cache/
-.vscode/
 
 .DS_Store
 *.env
@@ -22,3 +21,5 @@ params/*/*.json
 !params/*/default.json
 
 _site/
+config.bat
+node_modules
